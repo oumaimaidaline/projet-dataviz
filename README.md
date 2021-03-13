@@ -1,6 +1,6 @@
 
-L’atelier consiste à explorer la progression de la vaccination dans les
-        continents ,pays, du monde, pays arabes, en examinant les points suivants :
+le projet  consiste à explorer la progression de la vaccination dans les
+        continents ,pays, du monde, pays arabes, en examinant les points suivants:
         
     Quels sont les vaccins utilisés par les pays ?
     Quel est le pourcentage de la population vaccinées par continents ?
